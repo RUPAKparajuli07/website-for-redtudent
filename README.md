@@ -92,6 +92,3 @@ The website includes links to custom JavaScript ("script.js") and Ionicon librar
 
 This report provides a comprehensive overview of the "Grilli - Amazing & Delicious Food" website, covering its structure, elements, and additional content. Further details about specific functionalities or additional sections can be added as needed to complete the project.
 
----
-
-This report now encompasses the extended information you've provided, offering a thorough understanding of the
