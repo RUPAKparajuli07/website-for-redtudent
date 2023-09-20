@@ -1,9 +1,3 @@
-It appears you've provided an extended report for the "Grilli - Amazing & Delicious Food" project, including details about the "Event" section and the continuation of the "Footer" section. This additional information will help provide a more comprehensive overview of the project's structure and content.
-
-Here's the updated report for the "Grilli - Amazing & Delicious Food" project completion:
-
----
-
 # Grilli - Amazing & Delicious Food
 
 ## Table of Contents
